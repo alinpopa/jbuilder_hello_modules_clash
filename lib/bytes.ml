@@ -1,5 +1,5 @@
 include Bytes
 
-let concant x y =
+let concat x y =
   cat x y
 
